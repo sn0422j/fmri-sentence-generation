@@ -1,0 +1,15 @@
+# Directory
+/data/
+/results/
+/scripts_rejected/
+/test/
+/.empty/
+log/
+.ipynb_checkpoints/
+__pycache__
+
+# File
+*.ipynb
+*.ini
+*.log
+devcontainer.json

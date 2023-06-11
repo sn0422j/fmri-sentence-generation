@@ -1,0 +1,3 @@
+[submodule "scripts/step2_training/optimus"]
+	path = scripts/step2_training/optimus
+	url = https://github.com/ChunyuanLI/Optimus.git

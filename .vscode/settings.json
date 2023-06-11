@@ -1,0 +1,21 @@
+{
+    "python.defaultInterpreterPath": "/opt/conda/bin/python",
+    "python.autoComplete.extraPaths": ["/opt/conda/lib/python3.8"],
+    "python.linting.enabled": true,
+    "python.analysis.extraPaths": [
+        "/opt/conda/lib/python3.8",
+        "./scripts/step1_preprocessing",
+        "./scripts/step2_training",
+        "./scripts/step2_training/optimus/code/examples/big_ae",
+        "./scripts/step2_training/optimus/code",
+        "./scripts/step3_evaluation",
+        "./scripts/step4_posthoc_analysis",
+    ],
+    "python.formatting.provider": "black",
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true,
+        }
+    }
+}

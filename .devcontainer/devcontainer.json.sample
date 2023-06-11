@@ -1,0 +1,5 @@
+{
+    "name": "fmri-sentence-generation",
+    "context": "..",
+    "dockerFile": "Dockerfile"
+}

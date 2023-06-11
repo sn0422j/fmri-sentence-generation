@@ -1,0 +1,7 @@
+[Pereira2018]
+main_directory = 
+
+[VAE]
+output_encoder_dir = 
+output_decoder_dir = 
+checkpoint_dir = 
